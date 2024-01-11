@@ -1,5 +1,7 @@
 # README
 
+Groupe Lillew ( Locmant Maxence, Ringeval Thibaut, Godefroy Méline)
+
 ## Préparer son environnement
 
 Installer le paquet virtualenv
